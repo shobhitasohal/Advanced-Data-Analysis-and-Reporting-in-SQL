@@ -1,6 +1,6 @@
 
 /*=========================================================================================
-Phase 4 - SQL Report Views - Views that Power BI connects to — single source of truth
+Phase 4 - SQL Report Views - Views that Power BI connects to â€” single source of truth
 ===========================================================================================*/
 
 
